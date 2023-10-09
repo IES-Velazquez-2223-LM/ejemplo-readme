@@ -1,6 +1,4 @@
-Me llamo Javier Cristóbal y tengo un blog sobre [productividad mac][blog]
-En dicha [web][blog] recopilo artículos sobre todo lo relacionado con automatización, gestión y eficiencia.
-[blog]: <http://limni.net/blog/>
+`Esto es una línea de código`
 
 # Título del Proyecto
 
