@@ -1,7 +1,6 @@
-~~~
-Creando códigos de bloque.
-Puedes añadir tantas líneas y párrafos como quieras.  
-~~~
+Me llamo Javier Cristóbal y tengo un blog sobre [productividad mac][blog].
+En dicha [web][blog] recopilo artículos sobre todo lo relacionado con automatización, gestión y eficiencia.
+[blog]: http://limni.net/blog/
 
 # Título del Proyecto
 
