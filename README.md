@@ -1,7 +1,7 @@
-1. Elemento de lista 1
-2. Elemento de lista 2
-3. Elemento de lista 3
-4. Elemento de lista 4
+~~~
+Creando códigos de bloque.
+Puedes añadir tantas líneas y párrafos como quieras.  
+~~~
 
 # Título del Proyecto
 
