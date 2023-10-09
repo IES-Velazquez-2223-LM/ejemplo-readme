@@ -1,5 +1,3 @@
-`Esto es una línea de código`
-
 # Título del Proyecto
 
 Indica aquí el título del proyecto.
